@@ -21,7 +21,7 @@ Backend:
 -React
 -Vercel (for deployment)
 
-### API ENDPOINTS
+## API ENDPOINTS
 
 - GET `tutorials/` get all Tutorials
 - GET `tutorials/:id/` get Tutorial by id
@@ -31,7 +31,7 @@ Backend:
 - DELETE `tutorials/:id/` remove Tutorial by id
 - DELETE `tutorials/` remove all Tutorials
 
-# Deployed Frontend
+## Deployed Frontend
 
 ## https://tutorial.fullstack.clarusway.com/
 
